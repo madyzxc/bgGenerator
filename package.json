@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/madyzxc/bgGenerator/issues"
   },
-  "homepage": "https://github.com/madyzxc/bgGenerator#readme"
+  "homepage": "https://github.com/madyzxc/bgGenerator#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
